@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "." // This tells Pylance to look in the current directory
+    ]
+}
